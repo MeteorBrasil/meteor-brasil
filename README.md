@@ -4,6 +4,11 @@ Meteor Brasil
 ## Contribuir
 Para contribuir com o desenvolvimento ou informações/ideias entre em contato:guilherme.decampo@gmail.com.
 
+observação inicialmente rodando puro:
+- javascript
+- css
+- Estrutura de pastas [em](https://github.com/EventedMind/em)
+
 ## Rodar localmente
 Para rodar localmente é necessário ter node e npm instalados.
 
